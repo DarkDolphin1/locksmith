@@ -1,4 +1,4 @@
-#include"../protocols/dh.cpp"
+#include"../protocols/dh.hpp"
 
 #pragma once
 

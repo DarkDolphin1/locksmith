@@ -1,7 +1,5 @@
 #include"app.hpp"
 
-#pragma once
-
 void app(bool is_server , bool write){
 
      const std::string p_hex =  "FFFFFFFFFFFFFFFFC90FDAA22168C234C4C6628B80DC1CD1"

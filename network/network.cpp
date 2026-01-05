@@ -4,8 +4,8 @@
 #include<cstdlib>
 #include<iostream>
 #include"../protocols/dh.hpp"
-#include"../protocols/dh.cpp"
 
+#pragma once 
 
 enum class OPR{
     SEND,
