@@ -1,8 +1,8 @@
-#include<gmp.h>
 #include<gmpxx.h>
 #include<string>
 
 #pragma once
+
 
 // structure to hold keys 
 struct Keys{
